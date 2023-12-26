@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prathvipal Waskel
 - 👀 I’m interested in web Developoment
-- 🌱 I’m currently persuing B.tech in Coimputer Science Engineering.
+- 🌱 I’m completed B.tech in Computer Science Engineering.
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me prathviwaskel14@gmail.com
 
